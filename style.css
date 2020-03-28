@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+
+a {
+    font-size: 32px;
+    color: rgb(232, 13, 228);
+    font-family: 'Baloo Thambi 2', cursive;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
